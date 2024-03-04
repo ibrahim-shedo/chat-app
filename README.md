@@ -1,5 +1,4 @@
 
-Creating a README file for your React chat app project is essential for providing information to users and potential contributors about your project. Here's a template you can use:
 
 Chat App
 

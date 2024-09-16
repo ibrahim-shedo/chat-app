@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-This project was inspired by [example project name or resource]. Special thanks to [name] for their guidance and support.
+This project was inspired by [shedoh chat app]. Special thanks to [ibrhim-shedoh] for their guidance and support.
